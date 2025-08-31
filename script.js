@@ -1,0 +1,2 @@
+document.getElementById("myBtn").onclick = function() {alert("Heyy! I Love You!");};
+document.getElementById("editBtn").onclick = function() {document.getElementById("msg").innerText = "You're Learning Fast!";};
